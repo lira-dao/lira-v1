@@ -1,5 +1,5 @@
 {
-  "name": "@satoshilira/lira",
+  "name": "@satoshilira/mock-tokens",
   "version": "1.0.0",
   "license": "GPLV3",
   "private": true,
@@ -17,7 +17,6 @@
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@0.3.0-beta.13",
     "@nomiclabs/hardhat-etherscan": "^3.1.7",
     "@openzeppelin/contracts": "^4.8.3",
-    "@satoshilira/mock-tokens": "workspace:*",
     "@typechain/ethers-v5": "^10.2.1",
     "@typechain/hardhat": "^6.1.6",
     "@types/chai": "^4.3.5",
